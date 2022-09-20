@@ -19,9 +19,9 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['+225 0596531751']
-global.premium = ['+225 0596531751']
-global.ownernomer = '+225 0596531751'
+global.owner = ['22596531751']
+global.premium = ['22596531751']
+global.ownernomer = '22596531751'
 global.ownername = '𝙎𝙊𝙈𝘽𝙍𝙀 𝘿𝘼𝙀𝙈𝙊𝙉'
 global.botname = '𝙎𝙊𝙈𝘽𝙍𝙀 𝘽𝙊𝙏🪄'
 global.footer = '©NexusNwInc.'
